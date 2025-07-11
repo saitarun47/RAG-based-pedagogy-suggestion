@@ -1,10 +1,11 @@
-# Pedagogy Suggestion System 
+# Pedagogy Suggestion Using RAG (Retrieval Augmented Generation)
 
 ## Overview
 
 **Pedagogy Suggestion System** is an AI-driven tool that helps educators choose suitable teaching methods for university-level courses. It uses machine learning, semantic search, and large language models to provide data-informed recommendations aimed at improving student engagement and learning outcomes.
 
 ---
+<img width="1892" height="913" alt="Screenshot 2025-07-11 124515" src="https://github.com/user-attachments/assets/a2ae813f-88f7-4f3d-a029-126318448f82" />
 
 ## Why This Project Matters
 
